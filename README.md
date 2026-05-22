@@ -14,7 +14,7 @@ The project demonstrates strong understanding of:
 * Font styling and color combinations
 * Responsive and user-friendly UI design
 
-CAMPER CAFE is an excellent front-end web development project for showcasing basic web designing skills and creativity. It reflects the ability to build aesthetic static websites and improve practical knowledge of HTML and CSS fundamentals. ([sessa.dev][1])
+CAMPER CAFE is an excellent front-end web development project for showcasing basic web designing skills and creativity. It reflects the ability to build aesthetic static websites and improve practical knowledge of HTML and CSS fundamentals. 
 
 
 
