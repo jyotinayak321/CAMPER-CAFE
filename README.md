@@ -6,7 +6,7 @@ The [CAMPER CAFE Website](https://jyotinayak321.github.io/CAMPER-CAFE/?utm_sourc
 
 This project focuses on creating a visually appealing user interface with proper alignment, typography, colors, and layout design. The warm café-themed styling gives the website an elegant and realistic appearance, making it engaging for visitors. The menu is categorized clearly, helping users easily explore available beverages and food items along with their prices.
 
-The project demonstrates strong understanding of:
+## The project demonstrates strong understanding of:
 
 * HTML structure and semantic elements
 * CSS styling and page designing
